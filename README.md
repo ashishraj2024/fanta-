@@ -1,2 +1,3 @@
 # fanta
-This is for my youtube channel tutorial.
+Gsap is used ...refresh if you face slow imaage loading
+
